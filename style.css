@@ -1,0 +1,21 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.hero {
+  background: url('https://images.unsplash.com/photo-1512436991641-6745cdb1723f') center/cover no-repeat;
+  height: 80vh;
+}
+
+.hero h1 {
+  font-size: 3rem;
+}
+
+.card img {
+  height: 250px;
+  object-fit: cover;
+}
+
+footer {
+  margin-top: 40px;
+}
